@@ -1,7 +1,8 @@
 // 58. Length of Last Word
-
-class Solution {
-    public int lengthOfLastWord(String s) {
+class LengthOfLastWord
+{
+    public int lengthOfLastWord(String s)
+    {
         int count=0;
         int ref=s.length()-1;
         while(ref>=0 && s.charAt(i) == ' ')

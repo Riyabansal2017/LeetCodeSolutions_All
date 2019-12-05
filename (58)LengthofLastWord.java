@@ -1,4 +1,5 @@
 // 58. Length of Last Word
+
 class LengthOfLastWord
 {
     public int lengthOfLastWord(String s)
